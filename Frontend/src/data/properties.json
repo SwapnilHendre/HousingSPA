@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Birla House",
+      "type": "House",
+      "price": 12000
+    },
+    {
+      "id": 2,
+      "name": "Eros House",
+      "type": "House",
+      "price": 15000
+    },
+    {
+      "id": 1,
+      "name": "Santosh Home",
+      "type": "House",
+      "price": 14300
+    },
+    {
+      "id": 1,
+      "name": "Vijay House",
+      "type": "House",
+      "price": 11500
+    },
+    {
+      "id": 1,
+      "name": "Pearl White House",
+      "type": "House",
+      "price": 18000
+    }
+]
